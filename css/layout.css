@@ -281,6 +281,43 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 6px;
 }
 
+
+/* ------------------------------------------------------------------ */
+/* d. Research Section
+/* ------------------------------------------------------------------ */
+
+#research {
+   background: #2B2B2B;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+
+/* ------------------------------------------------------------------ */
+/* d. Publication Section
+/* ------------------------------------------------------------------ */
+
+#publications {
+   background: #2B2B2B;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+
+/* ------------------------------------------------------------------ */
+/* d. Parallel dimension Section
+/* ------------------------------------------------------------------ */
+
+#parallel_dimensions {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
