@@ -10,4 +10,4 @@ You will find:
 
 Feel free to use this code for your own website
 
-Webisite: https://jaimicore.github.io/
+Website: https://jaimicore.github.io/
