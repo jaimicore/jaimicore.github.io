@@ -1,6 +1,8 @@
+Hola!
+
 This is my personal academic website
 
-You will find:
+You will find here:
   - CV
   - Education
   - Job experience
