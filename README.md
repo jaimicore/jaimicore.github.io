@@ -3,7 +3,7 @@ Hola!
 This is my personal academic website
 
 You will find here:
-  - CV
+  - CV (you can find the repository [here](https://github.com/jaimicore/JCastro_CV))
   - Education
   - Job experience
   - List of publications
